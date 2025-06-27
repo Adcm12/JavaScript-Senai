@@ -1,0 +1,9 @@
+{
+  "produtosDaLoja": [
+    {"id": "A123", "nome": "Smart TV 4K", "preco": 2500.00},
+    {"id": "B456", "nome": "Fone de Ouvido Bluetooth", "preco": 300.00},
+    {"id": "C666", "nome": "Iphone 16 Pro Max", "preco": 1000.00}
+    
+  ],
+  "departamento": "Eletrônicos"
+}

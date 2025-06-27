@@ -1,0 +1,14 @@
+{
+  "produtos": [
+    {"id": 1, "nome": "Teclado Mecânico", "preco": 150.00},
+    {"id": 2, "nome": "Mouse Gamer", "preco": 75.50}
+  ],
+  "usuarios": [
+    {"id": 101, "nome": "Alice Silva", "email": "alice@example.com"},
+    {"id": 102, "nome": "Bob Pereira", "email": "bob@example.com"}
+  ],
+  "empresa": {
+    "nome": "Tech Solutions",
+    "sede": "São Paulo"
+  }
+}
